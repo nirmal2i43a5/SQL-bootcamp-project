@@ -1,0 +1,7 @@
+https://www.tutorialspoint.com/sql/sql-select-database.htm
+https://www.w3schools.com/sql/default.asp
+
+
+in my case i have not added base_profile file
+-----------------------------------------------
+echo 'export PATH="$PATH:/opt/mssql-tools/bin"' >> ~/.bash_profile

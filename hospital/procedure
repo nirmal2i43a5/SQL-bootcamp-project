@@ -1,0 +1,17 @@
+
+--direct calculate form db
+---------------------------------
+create proc InsertGrantTotal
+(
+    Declare @Total money
+    Declare @Discountprice money
+    Declare @Hst money
+     Declare @GTotal money
+
+        SET @Discountprice = (@Discountprice/100.) * @price)
+       SET @Total = @price - @Discountprice
+        SET @Host =  (5/100.0) * @Total
+         SET @GTotal =  @Total + @Hst
+)
+
+
