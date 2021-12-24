@@ -59,6 +59,7 @@ Sname varchar(100),
   Sphoto binary,  
   is_active bit,
   Course_id int FOREIGN KEY REFERENCES tbl_Course(Cid),
+  
   Class_id int FOREIGN KEY REFERENCES tbl_Class(Cid),
  Subject_id int FOREIGN KEY REFERENCES tbl_Subject(Sid),
 
@@ -78,7 +79,6 @@ Ureligion varchar(100),
 Uroll_no varchar(100),
 Uphoto binary, 
 is_active bit
-
 );
 
 create table  tbl_Teacher(

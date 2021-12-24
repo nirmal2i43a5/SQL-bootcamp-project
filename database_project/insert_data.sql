@@ -57,20 +57,20 @@ values
 
 insert into tbl_Student(Sname, Semail,Susername,Spassword, Saddress, Sgender, Sdob, Sreligion, Sroll_no,Course_id,Class_id,Subject_id)
 values
-('Student Pandey','Studentpandey1@gmail.com','Student7','admin123','9838281282','Male','2056-07-08','Hindu','1','1','1','1'),
-('Student2 Pandey','Studentpandey2@gmail.com','Student8','admin123','9838281282','Male','2056-07-08','Hindu','2','1','2','2'),
-('Student3 Pandey','Studentpandey3@gmail.com','Student70','admin123','9838281282','Male','2056-07-08','Hindu','3','2','1','1'),
-('Student4 Pandey','Studentpandey4@gmail.com','Student71','admin123','9838281282','Male','2056-07-08','Hindu','4','1','3','1'),
-('Student5 Pandey','Studentpandey5@gmail.com','Student72','admin123','9838281282','Male','2056-07-08','Hindu','5','2','4','1'),
-('Student6 Pandey','Studentpandey6@gmail.com','Student73','admin123','9838281282','Male','2056-07-08','Hindu','6','1','3','2'),
-('Student7 Pandey','Studentpandey7@gmail.com','Student74','admin123','9838281282','Male','2056-07-08','Hindu','7','1','2','3'),
-('Student8 Pandey','Studentpandey8@gmail.com','Student76','admin123','9838281282','Male','2056-07-08','Hindu','8','1','4','2'),
-('Student9 Pandey','Studentpandey9@gmail.com','Student75','admin123','9838281282','Male','2056-07-08','Hindu','9','1','1','1'),
-('Student10 Pandey','Studentpandey10@gmail.com','Student77','admin123','9838281282','Male','2056-07-08','Hindu','10','1','2','1'),
-('Student11 Pandey','Studentpandey11@gmail.com','Student78','admin123','9838281282','Male','2056-07-08','Hindu','11','1','5','3'),
-('Student12 Pandey','Studentpandey12@gmail.com','Student79','admin123','9838281282','Male','2056-07-08','Hindu','12','2','4','2'),
-('Student13 Pandey','Studentpandey13@gmail.com','Student80','admin123','9838281282','Male','2056-07-08','Hindu','13','3','2','1'),
-('Student14 Pandey','Studentpandey14@gmail.com','Student81','admin123','9838281282','Male','2056-07-08','Hindu','14','1','2','2')
+('Student Pandey','Studentpandey1@gmail.com','Student7','admin123','Butwal','Male','2056-07-08','Hindu','1','1','1','1'),
+('Student2 Pandey','Studentpandey2@gmail.com','Student8','admin123','Butwal','Male','2056-07-08','Hindu','2','1','2','2'),
+('Student3 Pandey','Studentpandey3@gmail.com','Student70','admin123','Butwal','Male','2056-07-08','Hindu','3','2','1','1'),
+('Student4 Pandey','Studentpandey4@gmail.com','Student71','admin123','Butwal1','Male','2056-07-08','Hindu','4','1','3','1'),
+('Student5 Pandey','Studentpandey5@gmail.com','Student72','admin123','Butwal1','Male','2056-07-08','Hindu','5','2','4','1'),
+('Student6 Pandey','Studentpandey6@gmail.com','Student73','admin123','Butwal1','Male','2056-07-08','Hindu','6','1','3','2'),
+('Student7 Pandey','Studentpandey7@gmail.com','Student74','admin123','Butwal1','Male','2056-07-08','Hindu','7','1','2','3'),
+('Student8 Pandey','Studentpandey8@gmail.com','Student76','admin123','Butwal1','Male','2056-07-08','Hindu','8','1','4','2'),
+('Student9 Pandey','Studentpandey9@gmail.com','Student75','admin123','Butwal1','Male','2056-07-08','Hindu','9','1','1','1'),
+('Student10 Pandey','Studentpandey10@gmail.com','Student77','admin123','Butwal1','Male','2056-07-08','Hindu','10','1','2','1'),
+('Student11 Pandey','Studentpandey11@gmail.com','Student78','admin123','Butwal1','Male','2056-07-08','Hindu','11','1','5','3'),
+('Student12 Pandey','Studentpandey12@gmail.com','Student79','admin123','Butwal1','Male','2056-07-08','Hindu','12','2','4','2'),
+('Student13 Pandey','Studentpandey13@gmail.com','Student80','admin123','Butwal1','Male','2056-07-08','Hindu','13','3','2','1'),
+('Student14 Pandey','Studentpandey14@gmail.com','Student81','admin123','Butwal1','Male','2056-07-08','Hindu','14','1','2','2')
 
 
 
